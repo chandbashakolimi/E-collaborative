@@ -1,0 +1,90 @@
+[General]
+Type=Tulip
+RunType=ActiveScript
+DefaultCfg=default.cfg
+DefaultRunLogic=default.usp
+ParamRightBrace=>
+ParamLeftBrace=<
+NewFunctionHeader=1
+MinorVersion=0
+MajorVersion=6	
+DevelopTool=AQT
+
+[Actions]
+Action0=Action0\Script.mts
+Action1=Action1\Script.mts
+Action1 [Create New Tracker]=Action1\Script.mts
+Action1 [View Graph of Tracker]=Action1\Script.mts
+Action1 [Create artifact Dependencies with parent Artifact]=Action1\Script.mts
+Action1 [Create artifact Dependencies for child Artifact]=Action1\Script.mts
+Action1 [Create New Artifact using Planning folder]=Action1\Script.mts
+Action1 [Create New Transition]=Action1\Script.mts
+Action1 [Import artifacts into a Tracker from a file]=Action1\Script.mts
+Action1 [Display the Trackers Summary page and display a tracker]=Action1\Script.mts
+Action1 [Check the Association and Create Association]=Action1\Script.mts
+Action1 [Create New Artifact]=Action1\Script.mts
+Action1 [Create New Task]=Action1\Script.mts
+Action1 [Create and browse new repository]=Action1\Script.mts
+Action1 [Create a new Directory Name with a @ in the name]=Action1\Script.mts
+Action1 [Display Kanban List]=Action1\Script.mts
+Action1 [Create kanban and display the kanban List]=Action1\Script.mts
+Action1 [Manage Mapping]=Action1\Script.mts
+Action1 [Group by priority]=Action1\Script.mts
+Action1 [create new release in new package]=Action1\Script.mts
+Action1 [Check a migrated release that has artifacts in tabs Reported and Fixed Tracker Artifacts]=Action1\Script.mts
+Action1 [Create new folder]=Action1\Script.mts
+Action1 [Create Association in new Document]=Action1\Script.mts
+Action1 [Change Effort]=Action1\Script.mts
+Action1 [Create New Planning Folder]=Action1\Script.mts
+Action1 [Search Everything]=Action1\Script.mts
+Action1 [Search Everything this site]=Action1\Script.mts
+Action1 [Search document]=Action1\Script.mts
+Action1 [Search By Jump to ID]=Action1\Script.mts
+Action1 [Search by People Search]=Action1\Script.mts
+Action1 [Planning folder summary of a specific Planning Folder]=Action1\Script.mts
+Action1 [Display the PF Summary page and display a PF]=Action1\Script.mts
+Action1 [Delete a Package]=Action1\Script.mts
+Action1 [Delete Planning Folder]=Action1\Script.mts
+Action1 [New Artifact From Planning Folder]=Action1\Script.mts
+
+[VuserProfiles]
+Profiles=Default Profile
+
+[CfgFiles]
+Default Profile=default.cfg
+
+[RunLogicFiles]
+Default Profile=default.usp
+
+[Rendezvous]
+
+[Transactions]
+
+[ActiveScript]
+Lang=none
+
+[TulipInfo]
+ProductName=HPE Unified Functional Testing
+Version=14.03
+
+[TulipAddins]
+ActiveX=
+Database=
+File Content=
+Insight=
+Windows Applications=
+TEA=
+Web=
+Windows Runtime=
+XML=
+
+[ExtraFiles]
+Test.tsp=
+Default.xls=
+Parameters.mtr=
+Action0\Script.mts=
+Action0\Resource.mtr=
+Action0\ObjectRepository.bdb=
+Action1\Script.mts=
+Action1\Resource.mtr=
+Action1\ObjectRepository.bdb=
